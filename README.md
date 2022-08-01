@@ -23,8 +23,8 @@ An app that will allow users to log-in using JWT, have a custom user profile, an
 
 
 ## Screen Captures
-### Portfolio
-<img width="1440" alt="Screen Shot 2022-06-03 at 11 27 09 PM" src="https://user-images.githubusercontent.com/97096664/171978780-d75e4f60-3341-4681-8622-e5b059556464.png">
+### Home Page w/ Recommended Album
+<img width="1440" alt="Screen Shot 2022-06-03 at 11 27 09 PM" src="https://i.imgur.com/ipUGHqu.png">
 
 ### Stock Info
 <img width="1439" alt="Screen Shot 2022-06-03 at 11 29 20 PM" src="https://user-images.githubusercontent.com/97096664/171979015-934333d6-0f2c-4bcc-9de6-7c21534cd5ee.png">
