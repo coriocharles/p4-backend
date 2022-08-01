@@ -36,11 +36,9 @@ An app that will allow users to log-in using JWT, have a custom user profile, an
 ![Recording 2022-06-04 at 14 42 43](https://media.giphy.com/media/qV3ZnRanFKDDPtlq65/giphy.gif)
 
 
-### Search by Stock Symbol
-![Recording 2022-06-04 at 00 07 30](https://user-images.githubusercontent.com/97096664/171981804-74136122-34f0-431f-b820-0e09065ad41f.gif)
+### Viewing Artist, adding Review, liking a Review
+![Recording 2022-06-04 at 00 07 30](https://media.giphy.com/media/LLhp8lY2JkwZxp8nID/giphy.gif)
 
-### Buy/Sell Stock
-![Recording 2022-06-04 at 00 05 13](https://user-images.githubusercontent.com/97096664/171981764-315380d2-faba-49fe-9901-ebee220844de.gif)
 
 ## User Stories
 ### MVP Goals
