@@ -11,6 +11,8 @@ from django.conf import settings
 from rest_framework.parsers import MultiPartParser, FormParser
 from rest_framework import status
 from django.db.models import Avg
+from rest_framework.throttling import UserRateThrottle
+
 import random
 
 import logging 
@@ -24,6 +26,7 @@ class PostUserWritePermission(BasePermission):
         return obj.author == request.user
 
 class PostList(generics.ListCreateAPIView):
+    throttle_classes = [UserRateThrottle]
     permission_classes = [IsAuthenticatedOrReadOnly]
     queryset = Post.postobjects.all()
     serializer_class = PostSerializer
