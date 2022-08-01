@@ -12,25 +12,28 @@ An app that will allow users to log-in using JWT, have a custom user profile, an
 - Fetch & Axios
 - React MUI
 
-## Wireframes
-![p3wireframe](https://user-images.githubusercontent.com/97096664/171978202-4a32b6bf-d62a-481d-8402-e337e3174db5.png)
-
-
 ## Links
-[GitHub Repository, Front-end](https://github.com/coriocharles/P3-frontend)
+[GitHub Repository, Front-end](https://github.com/coriocharles/p4-frontend)
 
-[GitHub Repository, Back-end](https://github.com/danianise/p3-backend)
+[GitHub Repository, Back-end](https://github.com/coriocharles/p4-backend)
 
 
 ## Screen Captures
 ### Home Page w/ Recommended Album
 <img width="1440" alt="Screen Shot 2022-06-03 at 11 27 09 PM" src="https://i.imgur.com/ipUGHqu.png">
 
-### Stock Info
-<img width="1439" alt="Screen Shot 2022-06-03 at 11 29 20 PM" src="https://user-images.githubusercontent.com/97096664/171979015-934333d6-0f2c-4bcc-9de6-7c21534cd5ee.png">
+### Artist Page
+<img width="1439" alt="Screen Shot 2022-06-03 at 11 29 20 PM" src="https://i.imgur.com/CakrnHi.png">
 
-### Watchlist
-![Recording 2022-06-04 at 14 42 43](https://user-images.githubusercontent.com/97096664/172021295-14a63925-e59c-4119-a39b-637552edb8a8.gif)
+### Album Page
+<img width="1439" alt="Screen Shot 2022-06-03 at 11 29 20 PM" src="https://i.imgur.com/DbhzoVv.png">
+
+### User Profile
+<img width="1439" alt="Screen Shot 2022-06-03 at 11 29 20 PM" src="https://i.imgur.com/EQFKe7v.png">
+
+
+### Logging In
+![Recording 2022-06-04 at 14 42 43](https://media.giphy.com/media/qV3ZnRanFKDDPtlq65/giphy.gif)
 
 
 ### Search by Stock Symbol
